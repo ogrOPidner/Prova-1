@@ -1,0 +1,14 @@
+tipo1 = 15
+print(tipo1)
+
+tipo2 = "Prova1"
+print(tipo2)
+
+tipo3 = 2.45
+print(tipo3)
+
+tipo4 = True
+print(tipo4)
+
+dados = input("Digite seu nome:")
+print(f"Olá {dados}, seja bem vindo!!")
